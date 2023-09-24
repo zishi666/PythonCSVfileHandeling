@@ -1,0 +1,7 @@
+OrderID,Product,Quantity,Price
+2,Widget B,5,10.0
+3,Widget A,7,25.0
+4,Widget C,3,30.0
+5,Widget B,8,15.06
+6,New Product,7,30.0
+7,Product Nth,15,55.0
